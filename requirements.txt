@@ -1,0 +1,6 @@
+streamlit>=1.22
+pandas>=1.5
+atlassian-python-api>=3.15
+
+# Optional (if you use extra features that require requests, etc.)
+requests>=2.0
